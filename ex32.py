@@ -7,7 +7,7 @@ for number in the_count:
     print(f"This is count {number}")
 
 # same as above
-for fruit in friuts:
+for fruit in fruits:
     print(f"A fruit of type: {fruit}")
 
 # also we can go through mixed lists too
